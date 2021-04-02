@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>个人 on Website of Jane Doe</title>
+    <link>https://example.com/tags/%E4%B8%AA%E4%BA%BA/</link>
+    <description>Recent content in 个人 on Website of Jane Doe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 13 Mar 2021 21:47:41 +0000</lastBuildDate><atom:link href="https://example.com/tags/%E4%B8%AA%E4%BA%BA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>记录第一次用hugo搭建个人博客</title>
+      <link>https://example.com/post/home/</link>
+      <pubDate>Sat, 13 Mar 2021 21:47:41 +0000</pubDate>
+      
+      <guid>https://example.com/post/home/</guid>
+      <description>记录第一次用hugo搭建个人博客 #</description>
+    </item>
+    
+  </channel>
+</rss>
