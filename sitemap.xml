@@ -3,41 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://hiluyu.github.io/tags/blog/</loc>
     <lastmod>2021-03-13T21:47:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://hiluyu.github.io/post/home/</loc>
     <lastmod>2021-03-13T21:47:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://hiluyu.github.io/post/</loc>
     <lastmod>2021-03-13T21:47:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/%E4%B8%AA%E4%BA%BA/</loc>
+    <loc>https://hiluyu.github.io/tags/</loc>
     <lastmod>2021-03-13T21:47:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/home/</loc>
+    <loc>https://hiluyu.github.io/</loc>
     <lastmod>2021-03-13T21:47:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://hiluyu.github.io/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://hiluyu.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/tags/index/</loc>
+    <loc>https://hiluyu.github.io/tags/index/</loc>
   </url>
   
 </urlset>
