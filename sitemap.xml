@@ -3,22 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hiluyu.github.io/tags/blog/</loc>
-    <lastmod>2021-03-13T21:47:41+00:00</lastmod>
+    <loc>https://hiluyu.github.io/tags/kvm/</loc>
+    <lastmod>2021-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hiluyu.github.io/tags/libvirt/</loc>
+    <lastmod>2021-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hiluyu.github.io/tags/linux/</loc>
+    <lastmod>2021-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hiluyu.github.io/post/linux%E8%99%9A%E6%8B%9F%E5%8C%96%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2021-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://hiluyu.github.io/post/</loc>
-    <lastmod>2021-03-13T21:47:41+00:00</lastmod>
+    <lastmod>2021-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hiluyu.github.io/tags/qemu/</loc>
+    <lastmod>2021-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://hiluyu.github.io/tags/</loc>
-    <lastmod>2021-03-13T21:47:41+00:00</lastmod>
+    <lastmod>2021-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://hiluyu.github.io/</loc>
+    <lastmod>2021-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hiluyu.github.io/tags/%E8%99%9A%E6%8B%9F%E5%8C%96/</loc>
+    <lastmod>2021-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hiluyu.github.io/tags/blog/</loc>
     <lastmod>2021-03-13T21:47:41+00:00</lastmod>
   </url>
   

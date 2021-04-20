@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Website of lu yu</title>
-    <link>https://hiluyu.github.io/post/</link>
-    <description>Recent content in Posts on Website of lu yu</description>
+    <title>Linux on Website of lu yu</title>
+    <link>https://hiluyu.github.io/tags/linux/</link>
+    <description>Recent content in Linux on Website of lu yu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://hiluyu.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://hiluyu.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux虚拟化</title>
       <link>https://hiluyu.github.io/post/linux%E8%99%9A%E6%8B%9F%E5%8C%96%E6%8A%80%E6%9C%AF/</link>
@@ -14,15 +14,6 @@
       
       <guid>https://hiluyu.github.io/post/linux%E8%99%9A%E6%8B%9F%E5%8C%96%E6%8A%80%E6%9C%AF/</guid>
       <description>Linux虚拟化  Linux虚拟化 hypervisor  类型 I：原生或裸机 hypervisor 类型 II：寄居或托管 hypervisor   [kvm](#kvmhttpswwwredhatcomzhtopicsvirtualizationwhat-is-kvm)  kvm是什么意思？ kvm是如何运行的？   [qemu](#qemuhttpswwwqemuorg)  qemu是什么？ qemu是如何运行的？   libvirt  libvirt是什么？ libvirt命令 virsh 命令创建虚拟机   总结： 参考文章：   虚拟化是云计算基础。虚拟化使得在一台物理机上可以跑多台虚拟机，虚拟机共享物理机的CPU、内存、IO硬件资源，但逻辑上是相互隔离的。今天我们来了解一下Linux虚拟化技术。</description>
-    </item>
-    
-    <item>
-      <title>使用hugo快速搭建github个人博客</title>
-      <link>https://hiluyu.github.io/post/myblog/</link>
-      <pubDate>Sat, 13 Mar 2021 21:47:41 +0000</pubDate>
-      
-      <guid>https://hiluyu.github.io/post/myblog/</guid>
-      <description>setup1: Mac OS安装hugo setup2: 创建站点 setup3: 添加主题 setup4: 启动hugo server setup5：部署到github 我遇到的问题：  Hugo Quick Start官方文档</description>
     </item>
     
   </channel>
